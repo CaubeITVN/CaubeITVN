@@ -1,16 +1,17 @@
-## Hi there 👋
+# Chào mọi người, mình là Cậu Bé IT (CaubeITVN) 👋
 
-<!--
-**CaubeITVN/CaubeITVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là một lập trình viên đam mê công nghệ đến từ Việt Nam. Mình thích khám phá những kiến thức mới và xây dựng các dự án mã nguồn mở. 
 
-Here are some ideas to get you started:
+## Về bản thân mình
+ Hiện tại mình đang học tập tại: **Trường Đại học công nghệ thông tin và Truyền thông Thái Nguyên - Việt Nam**
+- Hiện tại mình đang học thêm về: **Machine Learning, Deep Learning**
+- Mình đang tìm kiếm cơ hội hợp tác trong các dự án về: **Computer Vision**
+- Cách liên hệ với mình: **nhatlx205@gmail.com**
+- Fun fact: **Vibe coding every day:))**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kỹ năng
+- **Ngôn ngữ:** Python, C/C++
+- **Database:** MySQL
+- **Tools:** Git
+
+## 📈 Thống kê GitHub
